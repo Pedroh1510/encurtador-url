@@ -21,7 +21,7 @@ OBS: o docker pode ser substituído um bando de dados rodando localmente.
 Clonando Repositório
 
 ```sh
-git clone ...
+git clone https://github.com/Pedroh1510/encurtador-url.git
 cd encurtador-url
 yarn
 ```
