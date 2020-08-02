@@ -32,7 +32,7 @@ Utilizando o docker para criar um banco de dados local (OPCIONAL)
 yarn up
 ```
 
-Start, aplicação ira rodar na rota http://localhost:3333/
+Start, aplicação ira rodar na rota <http://localhost:3333/>
 
 ```sh
 yarn start
