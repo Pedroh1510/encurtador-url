@@ -1,5 +1,7 @@
 # Encurtador de Url
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4da0f848fda6420393b021608e0b07fe)](https://app.codacy.com/manual/Pedroh1510/encurtador-url?utm_source=github.com&utm_medium=referral&utm_content=Pedroh1510/encurtador-url&utm_campaign=Badge_Grade_Dashboard)
+
 Projeto proposto pode ser encontrado [aqui](https://github.com/backend-br/desafios/tree/master/1%20-%20Easy/Encurtador%20de%20URL).
 
 Recebe como parâmetro uma URL através de uma requisição POST e retorna uma nova URL com um prazo de validade que ao ser acessada redireciona para a URL cadastrada
